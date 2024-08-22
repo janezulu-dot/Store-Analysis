@@ -26,6 +26,7 @@ This repository contains a collection of SQL scripts used for various data analy
 ### Store Comparison Dashboard
 
 - **Purpose**: Provides a visual comparison of potential store locations based on various metrics. The dashboard includes detailed visualizations to help analyze store performance and make informed decisions.
+- **Link**: [View Tableau Dashboard](https://public.tableau.com/app/profile/jzulu/viz/ComparisonofPotentialStores/Summary)
 - **Description**: This Tableau dashboard visualizes key metrics such as sales performance, customer demographics, and store locations. It helps to identify trends and compare different store options effectively.
 
 
